@@ -1,3 +1,9 @@
 python-dotenv
 pandas
 numpy
+pymongo
+certifi
+
+
+-e .
+## refering to setup.py if user run from requirement.tx 
